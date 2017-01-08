@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 08 Jan 2017 11:22:36 GMT
+    - Sun, 08 Jan 2017 22:07:27 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,24 +38,24 @@ response:
     - <http://www.lagtinget.ax/ledamoter/torsten-sundblom>; rel="canonical",<http://www.lagtinget.ax/node/156>;
       rel="shortlink"
     Last-Modified:
-    - Sun, 08 Jan 2017 11:22:36 GMT
+    - Sun, 08 Jan 2017 22:07:27 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=205428 microseconds, awesome!
+    - D=201557 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
     - IE=Edge,chrome=1
     Pragma:
     - no-cache
-    Transfer-Encoding:
-    - chunked
     Content-Type:
     - text/html; charset=utf-8
+    Content-Length:
+    - '15003'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 08 Jan 2017 11:22:37 GMT
+recorded_at: Sun, 08 Jan 2017 22:07:27 GMT
