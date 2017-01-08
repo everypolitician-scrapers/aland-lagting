@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 08 Jan 2017 11:23:22 GMT
+    - Sun, 08 Jan 2017 22:08:25 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -35,7 +35,7 @@ response:
     Cache-Control:
     - no-store, no-cache, must-revalidate, max-age=0
     Last-Modified:
-    - Sun, 08 Jan 2017 11:11:38 GMT
+    - Sun, 08 Jan 2017 21:30:13 GMT
     Expires:
     - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
@@ -43,18 +43,18 @@ response:
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=5584 microseconds, awesome!
+    - D=5426 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
     - IE=Edge,chrome=1
     Pragma:
     - no-cache
-    Transfer-Encoding:
-    - chunked
     Content-Type:
     - text/html; charset=utf-8
+    Content-Length:
+    - '15357'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 08 Jan 2017 11:23:23 GMT
+recorded_at: Sun, 08 Jan 2017 22:08:25 GMT
