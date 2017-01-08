@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 08 Jan 2017 11:22:53 GMT
+    - Sun, 08 Jan 2017 22:07:47 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,24 +38,24 @@ response:
     - <http://www.lagtinget.ax/ledamoter/runar-karlsson>; rel="canonical",<http://www.lagtinget.ax/node/147>;
       rel="shortlink"
     Last-Modified:
-    - Sun, 08 Jan 2017 11:22:53 GMT
+    - Sun, 08 Jan 2017 22:07:47 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=222434 microseconds, awesome!
+    - D=211528 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
     - IE=Edge,chrome=1
     Pragma:
     - no-cache
-    Transfer-Encoding:
-    - chunked
     Content-Type:
     - text/html; charset=utf-8
+    Content-Length:
+    - '15189'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 08 Jan 2017 11:22:53 GMT
+recorded_at: Sun, 08 Jan 2017 22:07:48 GMT
