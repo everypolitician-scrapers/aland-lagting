@@ -1,0 +1,61 @@
+---
+request:
+  method: get
+  uri: http://www.lagtinget.ax/ledamoter/pernilla-soderlund
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - "*/*"
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Date:
+    - Sun, 08 Jan 2017 11:22:40 GMT
+    Server:
+    - Apache
+    X-Content-Type-Options:
+    - nosniff
+    - nosniff
+    X-Drupal-Cache:
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - no-store, no-cache, must-revalidate, max-age=0
+    Content-Language:
+    - sv
+    X-Generator:
+    - Drupal 7 (http://drupal.org)
+    Link:
+    - <http://www.lagtinget.ax/ledamoter/pernilla-soderlund>; rel="canonical",<http://www.lagtinget.ax/node/3819>;
+      rel="shortlink"
+    Last-Modified:
+    - Sun, 08 Jan 2017 11:22:40 GMT
+    Vary:
+    - Cookie,Accept-Encoding
+    X-Lagtinget:
+    - by Tommy B & Christoph N
+    X-Speed:
+    - D=202087 microseconds, awesome!
+    X-Xss-Protection:
+    - 1; mode=block
+    X-Ua-Compatible:
+    - IE=Edge,chrome=1
+    Pragma:
+    - no-cache
+    Transfer-Encoding:
+    - chunked
+    Content-Type:
+    - text/html; charset=utf-8
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Sun, 08 Jan 2017 11:22:41 GMT
