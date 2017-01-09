@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 08 Jan 2017 22:09:12 GMT
+    - Mon, 09 Jan 2017 03:29:37 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/fredrik-fredlund>; rel="canonical",<http://www.lagtinget.ax/node/3794>;
       rel="shortlink"
     Last-Modified:
-    - Sun, 08 Jan 2017 22:09:12 GMT
+    - Mon, 09 Jan 2017 03:29:37 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=196689 microseconds, awesome!
+    - D=200746 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +54,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14844'
+    - '14848'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 08 Jan 2017 22:09:12 GMT
+recorded_at: Mon, 09 Jan 2017 03:29:38 GMT
