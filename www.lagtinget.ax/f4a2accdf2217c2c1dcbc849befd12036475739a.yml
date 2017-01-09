@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 08 Jan 2017 22:07:37 GMT
+    - Mon, 09 Jan 2017 03:28:06 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/britt-lundberg>; rel="canonical",<http://www.lagtinget.ax/node/8>;
       rel="shortlink"
     Last-Modified:
-    - Sun, 08 Jan 2017 22:07:37 GMT
+    - Mon, 09 Jan 2017 03:28:06 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=201267 microseconds, awesome!
+    - D=209417 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -58,4 +58,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 08 Jan 2017 22:07:37 GMT
+recorded_at: Mon, 09 Jan 2017 03:28:07 GMT
