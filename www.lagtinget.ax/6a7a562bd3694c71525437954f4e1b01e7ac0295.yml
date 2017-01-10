@@ -18,18 +18,13 @@ response:
     message: OK
   headers:
     Date:
-    - Mon, 09 Jan 2017 03:27:57 GMT
+    - Tue, 10 Jan 2017 07:37:28 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - no-store, no-cache, must-revalidate, max-age=0
+    - HIT
     Content-Language:
     - sv
     X-Generator:
@@ -37,14 +32,18 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/torsten-sundblom>; rel="canonical",<http://www.lagtinget.ax/node/156>;
       rel="shortlink"
+    Cache-Control:
+    - no-store, no-cache, must-revalidate, max-age=0
     Last-Modified:
-    - Mon, 09 Jan 2017 03:27:57 GMT
+    - Tue, 10 Jan 2017 06:53:46 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=200840 microseconds, awesome!
+    - D=5742 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +53,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15005'
+    - '15004'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 09 Jan 2017 03:27:57 GMT
+recorded_at: Tue, 10 Jan 2017 07:37:28 GMT
