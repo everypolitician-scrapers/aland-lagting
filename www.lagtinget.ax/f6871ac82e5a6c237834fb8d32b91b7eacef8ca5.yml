@@ -18,13 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 10 Jan 2017 07:38:49 GMT
+    - Wed, 11 Jan 2017 15:53:51 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - no-store, no-cache, must-revalidate, max-age=0
     Content-Language:
     - sv
     X-Generator:
@@ -32,18 +37,14 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/sara-kemetter>; rel="canonical",<http://www.lagtinget.ax/node/148>;
       rel="shortlink"
-    Cache-Control:
-    - no-store, no-cache, must-revalidate, max-age=0
     Last-Modified:
-    - Tue, 10 Jan 2017 06:52:41 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Wed, 11 Jan 2017 15:53:51 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=5443 microseconds, awesome!
+    - D=215934 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -53,8 +54,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15110'
+    - '15108'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 10 Jan 2017 07:38:49 GMT
+recorded_at: Wed, 11 Jan 2017 15:53:52 GMT
