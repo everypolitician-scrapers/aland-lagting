@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 26 Jan 2017 06:20:55 GMT
+    - Thu, 26 Jan 2017 23:08:52 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/roger-eriksson>; rel="canonical",<http://www.lagtinget.ax/node/3808>;
       rel="shortlink"
     Last-Modified:
-    - Thu, 26 Jan 2017 06:20:55 GMT
+    - Thu, 26 Jan 2017 23:08:52 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=210786 microseconds, awesome!
+    - D=209681 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -58,4 +58,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 26 Jan 2017 06:20:56 GMT
+recorded_at: Thu, 26 Jan 2017 23:08:52 GMT
