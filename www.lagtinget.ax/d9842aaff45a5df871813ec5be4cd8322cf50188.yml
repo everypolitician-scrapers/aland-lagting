@@ -18,18 +18,13 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 26 Jan 2017 23:10:46 GMT
+    - Fri, 27 Jan 2017 14:35:50 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - no-store, no-cache, must-revalidate, max-age=0
+    - HIT
     Content-Language:
     - sv
     X-Generator:
@@ -37,14 +32,18 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/carina-aaltonen>; rel="canonical",<http://www.lagtinget.ax/node/3801>;
       rel="shortlink"
+    Cache-Control:
+    - no-store, no-cache, must-revalidate, max-age=0
     Last-Modified:
-    - Thu, 26 Jan 2017 23:10:46 GMT
+    - Fri, 27 Jan 2017 13:47:26 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=211866 microseconds, awesome!
+    - D=5713 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +53,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15187'
+    - '15188'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 26 Jan 2017 23:10:47 GMT
+recorded_at: Fri, 27 Jan 2017 14:35:50 GMT
