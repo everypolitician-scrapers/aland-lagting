@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 26 Jan 2017 23:11:34 GMT
+    - Fri, 27 Jan 2017 14:36:40 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/brage-eklund>; rel="canonical",<http://www.lagtinget.ax/node/136>;
       rel="shortlink"
     Last-Modified:
-    - Thu, 26 Jan 2017 23:11:34 GMT
+    - Fri, 27 Jan 2017 14:36:40 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=266531 microseconds, awesome!
+    - D=240202 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +54,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15126'
+    - '15129'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 26 Jan 2017 23:11:35 GMT
+recorded_at: Fri, 27 Jan 2017 14:36:41 GMT
