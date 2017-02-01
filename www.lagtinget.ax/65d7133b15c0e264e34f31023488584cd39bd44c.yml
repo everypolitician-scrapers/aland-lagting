@@ -18,18 +18,13 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 31 Jan 2017 19:44:01 GMT
+    - Wed, 01 Feb 2017 09:03:34 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - no-store, no-cache, must-revalidate, max-age=0
+    - HIT
     Content-Language:
     - sv
     X-Generator:
@@ -37,14 +32,18 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/john-holmberg>; rel="canonical",<http://www.lagtinget.ax/node/3806>;
       rel="shortlink"
+    Cache-Control:
+    - no-store, no-cache, must-revalidate, max-age=0
     Last-Modified:
-    - Tue, 31 Jan 2017 19:44:01 GMT
+    - Wed, 01 Feb 2017 09:02:37 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=218001 microseconds, awesome!
+    - D=5509 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +53,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14957'
+    - '14962'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 31 Jan 2017 19:44:02 GMT
+recorded_at: Wed, 01 Feb 2017 09:03:34 GMT
