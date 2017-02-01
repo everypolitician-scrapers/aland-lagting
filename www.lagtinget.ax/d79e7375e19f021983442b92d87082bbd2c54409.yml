@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 31 Jan 2017 19:45:47 GMT
+    - Wed, 01 Feb 2017 09:05:25 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/tage-silander>; rel="canonical",<http://www.lagtinget.ax/node/3797>;
       rel="shortlink"
     Last-Modified:
-    - Tue, 31 Jan 2017 19:45:47 GMT
+    - Wed, 01 Feb 2017 09:05:25 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=212968 microseconds, awesome!
+    - D=206950 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +54,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14947'
+    - '14949'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 31 Jan 2017 19:45:48 GMT
+recorded_at: Wed, 01 Feb 2017 09:05:26 GMT
