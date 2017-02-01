@@ -18,18 +18,13 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 31 Jan 2017 19:46:40 GMT
+    - Wed, 01 Feb 2017 09:06:24 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - no-store, no-cache, must-revalidate, max-age=0
+    - HIT
     Content-Language:
     - sv
     X-Generator:
@@ -37,14 +32,18 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/lars-haggblom>; rel="canonical",<http://www.lagtinget.ax/node/3796>;
       rel="shortlink"
+    Cache-Control:
+    - no-store, no-cache, must-revalidate, max-age=0
     Last-Modified:
-    - Tue, 31 Jan 2017 19:46:40 GMT
+    - Wed, 01 Feb 2017 09:02:56 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=211244 microseconds, awesome!
+    - D=5551 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +53,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15038'
+    - '15030'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 31 Jan 2017 19:46:41 GMT
+recorded_at: Wed, 01 Feb 2017 09:06:25 GMT
