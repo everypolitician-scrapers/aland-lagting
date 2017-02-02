@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 01 Feb 2017 09:03:47 GMT
+    - Thu, 02 Feb 2017 14:32:24 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/mikael-staffas>; rel="canonical",<http://www.lagtinget.ax/node/3871>;
       rel="shortlink"
     Last-Modified:
-    - Wed, 01 Feb 2017 09:03:47 GMT
+    - Thu, 02 Feb 2017 14:32:24 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=207879 microseconds, awesome!
+    - D=215686 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -58,4 +58,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 01 Feb 2017 09:03:47 GMT
+recorded_at: Thu, 02 Feb 2017 14:32:24 GMT
