@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 01 Feb 2017 09:05:53 GMT
+    - Thu, 02 Feb 2017 14:34:18 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/tony-wikstrom>; rel="canonical",<http://www.lagtinget.ax/node/3810>;
       rel="shortlink"
     Last-Modified:
-    - Wed, 01 Feb 2017 09:05:53 GMT
+    - Thu, 02 Feb 2017 14:34:18 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=212150 microseconds, awesome!
+    - D=215162 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +54,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14921'
+    - '14925'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 01 Feb 2017 09:05:54 GMT
+recorded_at: Thu, 02 Feb 2017 14:34:19 GMT
