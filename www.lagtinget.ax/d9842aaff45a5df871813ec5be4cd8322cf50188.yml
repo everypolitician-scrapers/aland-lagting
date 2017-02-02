@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 01 Feb 2017 09:05:39 GMT
+    - Thu, 02 Feb 2017 14:34:05 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/carina-aaltonen>; rel="canonical",<http://www.lagtinget.ax/node/3801>;
       rel="shortlink"
     Last-Modified:
-    - Wed, 01 Feb 2017 09:05:39 GMT
+    - Thu, 02 Feb 2017 14:34:05 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=209839 microseconds, awesome!
+    - D=203682 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +54,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15191'
+    - '15190'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 01 Feb 2017 09:05:40 GMT
+recorded_at: Thu, 02 Feb 2017 14:34:06 GMT
