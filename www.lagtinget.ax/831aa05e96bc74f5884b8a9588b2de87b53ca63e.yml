@@ -18,13 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 03 Feb 2017 20:50:24 GMT
+    - Sat, 04 Feb 2017 00:14:06 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - no-store, no-cache, must-revalidate, max-age=0
     Content-Language:
     - sv
     X-Generator:
@@ -32,18 +37,14 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/mikael-staffas>; rel="canonical",<http://www.lagtinget.ax/node/3871>;
       rel="shortlink"
-    Cache-Control:
-    - no-store, no-cache, must-revalidate, max-age=0
     Last-Modified:
-    - Fri, 03 Feb 2017 18:14:03 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Sat, 04 Feb 2017 00:14:06 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=5946 microseconds, awesome!
+    - D=214964 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -53,8 +54,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15020'
+    - '15023'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 03 Feb 2017 20:50:24 GMT
+recorded_at: Sat, 04 Feb 2017 00:14:07 GMT
