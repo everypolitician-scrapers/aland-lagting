@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 05 Feb 2017 00:35:58 GMT
+    - Mon, 06 Feb 2017 04:08:03 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -38,13 +38,13 @@ response:
     - <http://www.lagtinget.ax/ledamoter/lars-haggblom>; rel="canonical",<http://www.lagtinget.ax/node/3796>;
       rel="shortlink"
     Last-Modified:
-    - Sun, 05 Feb 2017 00:35:58 GMT
+    - Mon, 06 Feb 2017 04:08:03 GMT
     Vary:
     - Cookie,Accept-Encoding
     X-Lagtinget:
     - by Tommy B & Christoph N
     X-Speed:
-    - D=211312 microseconds, awesome!
+    - D=223583 microseconds, awesome!
     X-Xss-Protection:
     - 1; mode=block
     X-Ua-Compatible:
@@ -54,8 +54,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15035'
+    - '15036'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 05 Feb 2017 00:35:58 GMT
+recorded_at: Mon, 06 Feb 2017 04:08:04 GMT
