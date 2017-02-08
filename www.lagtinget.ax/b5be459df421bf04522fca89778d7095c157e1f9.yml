@@ -18,43 +18,38 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 07 Feb 2017 12:22:20 GMT
+    - Wed, 08 Feb 2017 14:57:46 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
+    X-Frame-Options:
+    - SAMEORIGIN
     X-Generator:
     - Drupal 7 (http://drupal.org)
     Link:
     - <http://www.lagtinget.ax/ledamoter/johan-ehn>; rel="canonical",<http://www.lagtinget.ax/node/3798>;
       rel="shortlink"
-    Cache-Control:
-    - no-store, no-cache, must-revalidate, max-age=0
+    Etag:
+    - '"1486565866-1"'
     Last-Modified:
-    - Tue, 07 Feb 2017 11:02:58 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Wed, 08 Feb 2017 14:57:46 GMT
     Vary:
     - Cookie,Accept-Encoding
-    X-Lagtinget:
-    - by Tommy B & Christoph N
-    X-Speed:
-    - D=5902 microseconds, awesome!
-    X-Xss-Protection:
-    - 1; mode=block
-    X-Ua-Compatible:
-    - IE=Edge,chrome=1
-    Pragma:
-    - no-cache
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15397'
+    - '15394'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 07 Feb 2017 12:22:20 GMT
+recorded_at: Wed, 08 Feb 2017 14:57:46 GMT
