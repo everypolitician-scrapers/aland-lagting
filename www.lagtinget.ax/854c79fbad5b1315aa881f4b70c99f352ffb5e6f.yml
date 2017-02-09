@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 08 Feb 2017 14:56:45 GMT
+    - Thu, 09 Feb 2017 05:21:13 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <http://www.lagtinget.ax/ledamoter/pernilla-soderlund>; rel="canonical",<http://www.lagtinget.ax/node/3819>;
       rel="shortlink"
     Etag:
-    - '"1486565805-1"'
+    - '"1486617673-1"'
     Last-Modified:
-    - Wed, 08 Feb 2017 14:56:45 GMT
+    - Thu, 09 Feb 2017 05:21:13 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14920'
+    - '14917'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 08 Feb 2017 14:56:46 GMT
+recorded_at: Thu, 09 Feb 2017 05:21:14 GMT
