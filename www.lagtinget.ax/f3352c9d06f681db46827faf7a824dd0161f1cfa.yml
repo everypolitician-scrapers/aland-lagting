@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 22 Feb 2017 09:32:53 GMT
+    - Thu, 23 Feb 2017 02:49:31 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <http://www.lagtinget.ax/ledamoter/igge-holmberg>; rel="canonical",<http://www.lagtinget.ax/node/142>;
       rel="shortlink"
     Etag:
-    - '"1487755973-1"'
+    - '"1487818171-1"'
     Last-Modified:
-    - Wed, 22 Feb 2017 09:32:53 GMT
+    - Thu, 23 Feb 2017 02:49:31 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 22 Feb 2017 09:32:53 GMT
+recorded_at: Thu, 23 Feb 2017 02:49:32 GMT
