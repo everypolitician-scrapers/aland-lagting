@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 25 Feb 2017 09:56:36 GMT
+    - Sun, 26 Feb 2017 01:13:15 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <http://www.lagtinget.ax/ledamoter/mikael-staffas>; rel="canonical",<http://www.lagtinget.ax/node/3871>;
       rel="shortlink"
     Etag:
-    - '"1488016596-1"'
+    - '"1488071595-1"'
     Last-Modified:
-    - Sat, 25 Feb 2017 09:56:36 GMT
+    - Sun, 26 Feb 2017 01:13:15 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14667'
+    - '14663'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 25 Feb 2017 09:56:36 GMT
+recorded_at: Sun, 26 Feb 2017 01:13:16 GMT
