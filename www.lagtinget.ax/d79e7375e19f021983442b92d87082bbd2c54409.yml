@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 02 Mar 2017 23:30:09 GMT
+    - Mon, 06 Mar 2017 07:01:51 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1488495009-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/tage-silander>; rel="canonical",<http://www.lagtinget.ax/node/3797>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1488783711-1"'
     Last-Modified:
-    - Thu, 02 Mar 2017 22:50:09 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Mon, 06 Mar 2017 07:01:51 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14590'
+    - '14588'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 02 Mar 2017 23:30:10 GMT
+recorded_at: Mon, 06 Mar 2017 07:01:51 GMT
