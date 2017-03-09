@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 08 Mar 2017 11:35:09 GMT
+    - Thu, 09 Mar 2017 12:46:06 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1489061677-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,17 +36,19 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/annette-holmberg-jansson>; rel="canonical",<http://www.lagtinget.ax/node/143>;
       rel="shortlink"
-    Etag:
-    - '"1488972909-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Wed, 08 Mar 2017 11:35:09 GMT
+    - Thu, 09 Mar 2017 12:14:37 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14856'
+    - '14851'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 08 Mar 2017 11:35:09 GMT
+recorded_at: Thu, 09 Mar 2017 12:46:07 GMT
