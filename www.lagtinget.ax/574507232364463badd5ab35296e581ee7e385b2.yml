@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 18 Mar 2017 15:37:17 GMT
+    - Sun, 19 Mar 2017 15:08:00 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <http://www.lagtinget.ax/ledamoter/axel-jonsson>; rel="canonical",<http://www.lagtinget.ax/node/146>;
       rel="shortlink"
     Etag:
-    - '"1489851437-1"'
+    - '"1489936080-1"'
     Last-Modified:
-    - Sat, 18 Mar 2017 15:37:17 GMT
+    - Sun, 19 Mar 2017 15:08:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14796'
+    - '14803'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 18 Mar 2017 15:37:18 GMT
+recorded_at: Sun, 19 Mar 2017 15:08:01 GMT
