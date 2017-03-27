@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 26 Mar 2017 04:21:30 GMT
+    - Mon, 27 Mar 2017 22:37:14 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <http://www.lagtinget.ax/ledamoter/sara-kemetter>; rel="canonical",<http://www.lagtinget.ax/node/148>;
       rel="shortlink"
     Etag:
-    - '"1490502090-1"'
+    - '"1490654234-1"'
     Last-Modified:
-    - Sun, 26 Mar 2017 04:21:30 GMT
+    - Mon, 27 Mar 2017 22:37:14 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 26 Mar 2017 04:21:31 GMT
+recorded_at: Mon, 27 Mar 2017 22:37:15 GMT
