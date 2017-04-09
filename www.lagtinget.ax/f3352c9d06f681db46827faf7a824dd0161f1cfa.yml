@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 08 Apr 2017 16:59:21 GMT
+    - Sun, 09 Apr 2017 12:08:24 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1491668807-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/igge-holmberg>; rel="canonical",<http://www.lagtinget.ax/node/142>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1491739704-1"'
     Last-Modified:
-    - Sat, 08 Apr 2017 16:26:47 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Sun, 09 Apr 2017 12:08:24 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 08 Apr 2017 16:59:21 GMT
+recorded_at: Sun, 09 Apr 2017 12:08:24 GMT
