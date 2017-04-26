@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 25 Apr 2017 02:46:06 GMT
+    - Wed, 26 Apr 2017 12:28:16 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1493087088-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/pernilla-soderlund>; rel="canonical",<http://www.lagtinget.ax/node/3819>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1493209696-1"'
     Last-Modified:
-    - Tue, 25 Apr 2017 02:24:48 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Wed, 26 Apr 2017 12:28:16 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 25 Apr 2017 02:46:06 GMT
+recorded_at: Wed, 26 Apr 2017 12:28:16 GMT
