@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 06 May 2017 22:09:05 GMT
+    - Sun, 07 May 2017 13:33:21 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <http://www.lagtinget.ax/ledamoter>; rel="canonical",<http://www.lagtinget.ax/node/1966>;
       rel="shortlink"
     Etag:
-    - '"1494108545-1"'
+    - '"1494164001-1"'
     Last-Modified:
-    - Sat, 06 May 2017 22:09:05 GMT
+    - Sun, 07 May 2017 13:33:21 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 06 May 2017 22:09:06 GMT
+recorded_at: Sun, 07 May 2017 13:33:22 GMT
