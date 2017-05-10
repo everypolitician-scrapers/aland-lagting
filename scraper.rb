@@ -43,7 +43,7 @@ def scrape_mp(url)
     source:     url.to_s,
   }
   data[:image] = URI.join(url, data[:image]).to_s unless data[:image].to_s.empty?
-  ScraperWiki.save_sqlite(%i(id term), data)
+  ScraperWiki.save_sqlite(%i[id term], data)
 end
 
 ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
