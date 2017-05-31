@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 30 May 2017 08:55:45 GMT
+    - Wed, 31 May 2017 10:40:26 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1496134361-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/veronica-thornroos>; rel="canonical",<http://www.lagtinget.ax/node/3802>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1496227226-1"'
     Last-Modified:
-    - Tue, 30 May 2017 08:52:41 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Wed, 31 May 2017 10:40:26 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 30 May 2017 08:55:45 GMT
+recorded_at: Wed, 31 May 2017 10:40:27 GMT
