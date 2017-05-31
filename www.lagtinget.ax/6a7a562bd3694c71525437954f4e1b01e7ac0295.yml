@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 30 May 2017 08:54:51 GMT
+    - Wed, 31 May 2017 10:39:31 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1496128583-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/torsten-sundblom>; rel="canonical",<http://www.lagtinget.ax/node/156>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1496227171-1"'
     Last-Modified:
-    - Tue, 30 May 2017 07:16:23 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Wed, 31 May 2017 10:39:31 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 30 May 2017 08:54:51 GMT
+recorded_at: Wed, 31 May 2017 10:39:31 GMT
