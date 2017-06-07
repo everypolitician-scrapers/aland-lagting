@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 06 Jun 2017 17:00:02 GMT
+    - Wed, 07 Jun 2017 19:44:47 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1496854845-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,10 +36,12 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/ingrid-johansson>; rel="canonical",<http://www.lagtinget.ax/node/3805>;
       rel="shortlink"
-    Etag:
-    - '"1496768402-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Tue, 06 Jun 2017 17:00:02 GMT
+    - Wed, 07 Jun 2017 17:00:45 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 06 Jun 2017 17:00:02 GMT
+recorded_at: Wed, 07 Jun 2017 19:44:47 GMT
