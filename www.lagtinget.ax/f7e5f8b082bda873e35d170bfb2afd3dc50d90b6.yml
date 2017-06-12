@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 11 Jun 2017 22:51:34 GMT
+    - Mon, 12 Jun 2017 06:08:26 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1497215058-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <http://www.lagtinget.ax/ledamoter/viveka-eriksson>; rel="canonical",<http://www.lagtinget.ax/node/159>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1497247706-1"'
     Last-Modified:
-    - Sun, 11 Jun 2017 21:04:18 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Mon, 12 Jun 2017 06:08:26 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 11 Jun 2017 22:51:34 GMT
+recorded_at: Mon, 12 Jun 2017 06:08:27 GMT
