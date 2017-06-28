@@ -48,4 +48,4 @@ def scrape_mp(url)
 end
 
 ScraperWiki.sqliteexecute('DROP TABLE data') rescue nil
-scrape_list('http://www.lagtinget.ax/ledamoter')
+scrape_list('https://www.lagtinget.ax/ledamoter')
