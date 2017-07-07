@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 06 Jul 2017 09:19:42 GMT
+    - Fri, 07 Jul 2017 13:07:58 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/viveka-eriksson>; rel="canonical",<https://www.lagtinget.ax/node/159>;
       rel="shortlink"
     Etag:
-    - '"1499332782-1"'
+    - '"1499432878-1"'
     Last-Modified:
-    - Thu, 06 Jul 2017 09:19:42 GMT
+    - Fri, 07 Jul 2017 13:07:58 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 06 Jul 2017 09:19:42 GMT
+recorded_at: Fri, 07 Jul 2017 13:07:58 GMT
