@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 15 Jul 2017 01:11:42 GMT
+    - Sun, 16 Jul 2017 16:33:02 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/bert-haggblom>; rel="canonical",<https://www.lagtinget.ax/node/2859>;
       rel="shortlink"
     Etag:
-    - '"1500081102-1"'
+    - '"1500222782-1"'
     Last-Modified:
-    - Sat, 15 Jul 2017 01:11:42 GMT
+    - Sun, 16 Jul 2017 16:33:02 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 15 Jul 2017 01:11:42 GMT
+recorded_at: Sun, 16 Jul 2017 16:33:02 GMT
