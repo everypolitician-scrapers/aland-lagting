@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 19 Jul 2017 18:15:49 GMT
+    - Fri, 21 Jul 2017 06:51:25 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1500617590-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,10 +36,12 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/carina-aaltonen>; rel="canonical",<https://www.lagtinget.ax/node/3801>;
       rel="shortlink"
-    Etag:
-    - '"1500488149-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Wed, 19 Jul 2017 18:15:49 GMT
+    - Fri, 21 Jul 2017 06:13:10 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 19 Jul 2017 18:15:49 GMT
+recorded_at: Fri, 21 Jul 2017 06:51:26 GMT
