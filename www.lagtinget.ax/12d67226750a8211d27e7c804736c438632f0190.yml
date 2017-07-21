@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 19 Jul 2017 18:14:57 GMT
+    - Fri, 21 Jul 2017 06:50:34 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/veronica-thornroos>; rel="canonical",<https://www.lagtinget.ax/node/3802>;
       rel="shortlink"
     Etag:
-    - '"1500488097-1"'
+    - '"1500619834-1"'
     Last-Modified:
-    - Wed, 19 Jul 2017 18:14:57 GMT
+    - Fri, 21 Jul 2017 06:50:34 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 19 Jul 2017 18:14:58 GMT
+recorded_at: Fri, 21 Jul 2017 06:50:34 GMT
