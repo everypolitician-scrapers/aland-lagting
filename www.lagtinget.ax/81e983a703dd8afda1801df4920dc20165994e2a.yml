@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 21 Jul 2017 18:20:45 GMT
+    - Sat, 22 Jul 2017 09:31:10 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/axel-jonsson>; rel="canonical",<https://www.lagtinget.ax/node/146>;
       rel="shortlink"
     Etag:
-    - '"1500661245-1"'
+    - '"1500715870-1"'
     Last-Modified:
-    - Fri, 21 Jul 2017 18:20:45 GMT
+    - Sat, 22 Jul 2017 09:31:10 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 21 Jul 2017 18:20:46 GMT
+recorded_at: Sat, 22 Jul 2017 09:31:10 GMT
