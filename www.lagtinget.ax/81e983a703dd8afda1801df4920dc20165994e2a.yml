@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 22 Jul 2017 09:31:10 GMT
+    - Sun, 23 Jul 2017 14:25:54 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1500812187-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,10 +36,12 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/axel-jonsson>; rel="canonical",<https://www.lagtinget.ax/node/146>;
       rel="shortlink"
-    Etag:
-    - '"1500715870-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Sat, 22 Jul 2017 09:31:10 GMT
+    - Sun, 23 Jul 2017 12:16:27 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 22 Jul 2017 09:31:10 GMT
+recorded_at: Sun, 23 Jul 2017 14:25:54 GMT
