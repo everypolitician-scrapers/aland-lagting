@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 11 Aug 2017 20:52:43 GMT
+    - Sat, 12 Aug 2017 08:37:35 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1502482897-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/runar-karlsson>; rel="canonical",<https://www.lagtinget.ax/node/147>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1502527055-1"'
     Last-Modified:
-    - Fri, 11 Aug 2017 20:21:37 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Sat, 12 Aug 2017 08:37:35 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 11 Aug 2017 20:52:44 GMT
+recorded_at: Sat, 12 Aug 2017 08:37:36 GMT
