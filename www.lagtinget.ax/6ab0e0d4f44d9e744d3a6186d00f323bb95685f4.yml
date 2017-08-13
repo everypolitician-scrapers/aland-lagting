@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 12 Aug 2017 08:39:24 GMT
+    - Sun, 13 Aug 2017 05:21:20 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1502600723-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,10 +36,12 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/tony-wikstrom>; rel="canonical",<https://www.lagtinget.ax/node/3810>;
       rel="shortlink"
-    Etag:
-    - '"1502527164-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Sat, 12 Aug 2017 08:39:24 GMT
+    - Sun, 13 Aug 2017 05:05:23 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 12 Aug 2017 08:39:24 GMT
+recorded_at: Sun, 13 Aug 2017 05:21:20 GMT
