@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Mon, 04 Sep 2017 11:26:44 GMT
+    - Thu, 07 Sep 2017 23:01:43 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1504523482-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/john-holmberg>; rel="canonical",<https://www.lagtinget.ax/node/3806>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1504825303-1"'
     Last-Modified:
-    - Mon, 04 Sep 2017 11:11:22 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Thu, 07 Sep 2017 23:01:43 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 04 Sep 2017 11:26:45 GMT
+recorded_at: Thu, 07 Sep 2017 23:01:44 GMT
