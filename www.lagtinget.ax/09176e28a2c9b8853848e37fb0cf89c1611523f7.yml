@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 19 Sep 2017 10:50:51 GMT
+    - Wed, 20 Sep 2017 22:50:42 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1505813088-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/britt-lundberg>; rel="canonical",<https://www.lagtinget.ax/node/8>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1505947842-1"'
     Last-Modified:
-    - Tue, 19 Sep 2017 09:24:48 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Wed, 20 Sep 2017 22:50:42 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 19 Sep 2017 10:50:52 GMT
+recorded_at: Wed, 20 Sep 2017 22:50:43 GMT
