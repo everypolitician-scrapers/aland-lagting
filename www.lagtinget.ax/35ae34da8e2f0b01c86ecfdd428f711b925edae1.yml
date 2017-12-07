@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 07 Dec 2017 21:49:25 GMT
+    - Thu, 07 Dec 2017 23:07:43 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/jorgen-pettersson>; rel="canonical",<https://www.lagtinget.ax/node/161>;
       rel="shortlink"
     Etag:
-    - '"1512683365-1"'
+    - '"1512688063-1"'
     Last-Modified:
-    - Thu, 07 Dec 2017 21:49:25 GMT
+    - Thu, 07 Dec 2017 23:07:43 GMT
     Vary:
     - Cookie,Accept-Encoding
     Transfer-Encoding:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 07 Dec 2017 21:49:25 GMT
+recorded_at: Thu, 07 Dec 2017 23:07:43 GMT
