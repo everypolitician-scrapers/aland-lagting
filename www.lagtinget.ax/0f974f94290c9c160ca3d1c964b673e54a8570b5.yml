@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Mon, 11 Dec 2017 18:08:19 GMT
+    - Tue, 12 Dec 2017 12:10:03 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/roger-nordlund>; rel="canonical",<https://www.lagtinget.ax/node/3803>;
       rel="shortlink"
     Etag:
-    - '"1513015699-1"'
+    - '"1513080603-1"'
     Last-Modified:
-    - Mon, 11 Dec 2017 18:08:19 GMT
+    - Tue, 12 Dec 2017 12:10:03 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15112'
+    - '15110'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 11 Dec 2017 18:08:20 GMT
+recorded_at: Tue, 12 Dec 2017 12:10:04 GMT
