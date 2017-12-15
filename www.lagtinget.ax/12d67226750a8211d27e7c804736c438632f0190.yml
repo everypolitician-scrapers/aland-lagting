@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 14 Dec 2017 05:22:39 GMT
+    - Fri, 15 Dec 2017 12:57:36 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/veronica-thornroos>; rel="canonical",<https://www.lagtinget.ax/node/3802>;
       rel="shortlink"
     Etag:
-    - '"1513228959-1"'
+    - '"1513342656-1"'
     Last-Modified:
-    - Thu, 14 Dec 2017 05:22:39 GMT
+    - Fri, 15 Dec 2017 12:57:36 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15142'
+    - '15140'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 14 Dec 2017 05:22:40 GMT
+recorded_at: Fri, 15 Dec 2017 12:57:36 GMT
