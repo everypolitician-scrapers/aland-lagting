@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 19 Dec 2017 17:01:29 GMT
+    - Fri, 22 Dec 2017 10:47:43 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1513695798-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/brage-eklund>; rel="canonical",<https://www.lagtinget.ax/node/136>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1513939663-1"'
     Last-Modified:
-    - Tue, 19 Dec 2017 15:03:18 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Fri, 22 Dec 2017 10:47:43 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14980'
+    - '14979'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 19 Dec 2017 17:01:30 GMT
+recorded_at: Fri, 22 Dec 2017 10:47:43 GMT
