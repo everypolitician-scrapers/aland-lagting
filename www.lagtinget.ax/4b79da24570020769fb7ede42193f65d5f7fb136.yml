@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 22 Dec 2017 18:45:56 GMT
+    - Sat, 23 Dec 2017 03:59:05 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/annette-holmberg-jansson>; rel="canonical",<https://www.lagtinget.ax/node/143>;
       rel="shortlink"
     Etag:
-    - '"1513968356-1"'
+    - '"1514001545-1"'
     Last-Modified:
-    - Fri, 22 Dec 2017 18:45:56 GMT
+    - Sat, 23 Dec 2017 03:59:05 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14995'
+    - '14993'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 22 Dec 2017 18:45:56 GMT
+recorded_at: Sat, 23 Dec 2017 03:59:06 GMT
