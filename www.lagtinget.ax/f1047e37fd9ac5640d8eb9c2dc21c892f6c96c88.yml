@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 26 Jan 2018 10:17:03 GMT
+    - Sat, 27 Jan 2018 08:35:12 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1516960385-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/gun-mari-lindholm>; rel="canonical",<https://www.lagtinget.ax/node/149>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1517042112-1"'
     Last-Modified:
-    - Fri, 26 Jan 2018 09:53:05 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Sat, 27 Jan 2018 08:35:12 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15404'
+    - '15406'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 26 Jan 2018 10:17:03 GMT
+recorded_at: Sat, 27 Jan 2018 08:35:13 GMT
