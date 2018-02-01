@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 31 Jan 2018 22:33:34 GMT
+    - Thu, 01 Feb 2018 21:26:45 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1517435616-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/lars-haggblom>; rel="canonical",<https://www.lagtinget.ax/node/3796>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1517520405-1"'
     Last-Modified:
-    - Wed, 31 Jan 2018 21:53:36 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Thu, 01 Feb 2018 21:26:45 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14902'
+    - '14904'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 31 Jan 2018 22:33:34 GMT
+recorded_at: Thu, 01 Feb 2018 21:26:45 GMT
