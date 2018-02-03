@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 02 Feb 2018 04:57:11 GMT
+    - Sat, 03 Feb 2018 17:09:07 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/gote-wine>; rel="canonical",<https://www.lagtinget.ax/node/158>;
       rel="shortlink"
     Etag:
-    - '"1517547431-1"'
+    - '"1517677747-1"'
     Last-Modified:
-    - Fri, 02 Feb 2018 04:57:11 GMT
+    - Sat, 03 Feb 2018 17:09:07 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14969'
+    - '14967'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 02 Feb 2018 04:57:12 GMT
+recorded_at: Sat, 03 Feb 2018 17:09:07 GMT
