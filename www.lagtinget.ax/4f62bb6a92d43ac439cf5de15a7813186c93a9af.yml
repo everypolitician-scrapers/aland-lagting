@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 14 Feb 2018 07:50:28 GMT
+    - Thu, 15 Feb 2018 20:09:55 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1518585565-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/johan-ehn>; rel="canonical",<https://www.lagtinget.ax/node/3798>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1518725395-1"'
     Last-Modified:
-    - Wed, 14 Feb 2018 05:19:25 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Thu, 15 Feb 2018 20:09:55 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15255'
+    - '15266'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 14 Feb 2018 07:50:28 GMT
+recorded_at: Thu, 15 Feb 2018 20:09:56 GMT
