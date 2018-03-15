@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 14 Mar 2018 08:04:24 GMT
+    - Thu, 15 Mar 2018 00:51:48 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/runar-karlsson>; rel="canonical",<https://www.lagtinget.ax/node/147>;
       rel="shortlink"
     Etag:
-    - '"1521014664-1"'
+    - '"1521075108-1"'
     Last-Modified:
-    - Wed, 14 Mar 2018 08:04:24 GMT
+    - Thu, 15 Mar 2018 00:51:48 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15090'
+    - '15088'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 14 Mar 2018 08:04:25 GMT
+recorded_at: Thu, 15 Mar 2018 00:51:49 GMT
