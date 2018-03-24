@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 23 Mar 2018 00:22:59 GMT
+    - Sat, 24 Mar 2018 17:22:18 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1521759725-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter>; rel="canonical",<https://www.lagtinget.ax/node/1966>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1521912138-1"'
     Last-Modified:
-    - Thu, 22 Mar 2018 23:02:05 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Sat, 24 Mar 2018 17:22:18 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '24241'
+    - '24237'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 23 Mar 2018 00:22:59 GMT
+recorded_at: Sat, 24 Mar 2018 17:22:19 GMT
