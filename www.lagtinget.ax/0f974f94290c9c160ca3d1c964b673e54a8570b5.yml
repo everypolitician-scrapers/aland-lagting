@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 31 Mar 2018 06:39:34 GMT
+    - Mon, 02 Apr 2018 04:51:09 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1522476845-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/roger-nordlund>; rel="canonical",<https://www.lagtinget.ax/node/3803>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1522644669-1"'
     Last-Modified:
-    - Sat, 31 Mar 2018 06:14:05 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Mon, 02 Apr 2018 04:51:09 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15139'
+    - '15138'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 31 Mar 2018 06:39:35 GMT
+recorded_at: Mon, 02 Apr 2018 04:51:09 GMT
