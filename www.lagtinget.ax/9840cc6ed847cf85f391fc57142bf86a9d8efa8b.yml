@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 04 Apr 2018 13:45:18 GMT
+    - Thu, 05 Apr 2018 04:23:21 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/petri-carlsson>; rel="canonical",<https://www.lagtinget.ax/node/135>;
       rel="shortlink"
     Etag:
-    - '"1522849518-1"'
+    - '"1522902201-1"'
     Last-Modified:
-    - Wed, 04 Apr 2018 13:45:18 GMT
+    - Thu, 05 Apr 2018 04:23:21 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 04 Apr 2018 13:45:18 GMT
+recorded_at: Thu, 05 Apr 2018 04:23:22 GMT
