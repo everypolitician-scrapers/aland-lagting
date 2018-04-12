@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 10 Apr 2018 09:34:22 GMT
+    - Thu, 12 Apr 2018 02:07:36 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/fredrik-fredlund>; rel="canonical",<https://www.lagtinget.ax/node/3794>;
       rel="shortlink"
     Etag:
-    - '"1523352862-1"'
+    - '"1523498856-1"'
     Last-Modified:
-    - Tue, 10 Apr 2018 09:34:22 GMT
+    - Thu, 12 Apr 2018 02:07:36 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 10 Apr 2018 09:34:22 GMT
+recorded_at: Thu, 12 Apr 2018 02:07:36 GMT
