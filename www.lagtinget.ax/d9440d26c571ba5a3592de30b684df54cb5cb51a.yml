@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 17 Apr 2018 08:16:55 GMT
+    - Wed, 18 Apr 2018 09:44:43 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/brage-eklund>; rel="canonical",<https://www.lagtinget.ax/node/136>;
       rel="shortlink"
     Etag:
-    - '"1523953015-1"'
+    - '"1524044683-1"'
     Last-Modified:
-    - Tue, 17 Apr 2018 08:16:55 GMT
+    - Wed, 18 Apr 2018 09:44:43 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15021'
+    - '15022'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 17 Apr 2018 08:16:58 GMT
+recorded_at: Wed, 18 Apr 2018 09:44:44 GMT
