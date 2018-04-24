@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Mon, 23 Apr 2018 19:04:00 GMT
+    - Tue, 24 Apr 2018 17:17:57 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -35,21 +35,21 @@ response:
     X-Frame-Options:
     - SAMEORIGIN
     X-Generator:
-    - Drupal 7 (http://drupal.org)
+    - Drupal 7 (https://www.drupal.org)
     Link:
     - <https://www.lagtinget.ax/ledamoter/britt-lundberg>; rel="canonical",<https://www.lagtinget.ax/node/8>;
       rel="shortlink"
     Etag:
-    - '"1524510240-1"'
+    - '"1524590277-1"'
     Last-Modified:
-    - Mon, 23 Apr 2018 19:04:00 GMT
+    - Tue, 24 Apr 2018 17:17:57 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15192'
+    - '15189'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 23 Apr 2018 19:04:01 GMT
+recorded_at: Tue, 24 Apr 2018 17:17:57 GMT
