@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 02 May 2018 12:50:22 GMT
+    - Thu, 03 May 2018 14:47:37 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/torsten-sundblom>; rel="canonical",<https://www.lagtinget.ax/node/156>;
       rel="shortlink"
     Etag:
-    - '"1525265422-1"'
+    - '"1525358857-1"'
     Last-Modified:
-    - Wed, 02 May 2018 12:50:22 GMT
+    - Thu, 03 May 2018 14:47:37 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14974'
+    - '14972'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 02 May 2018 12:50:23 GMT
+recorded_at: Thu, 03 May 2018 14:47:37 GMT
