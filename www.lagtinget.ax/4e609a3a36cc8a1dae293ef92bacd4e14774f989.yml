@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 05 May 2018 05:53:24 GMT
+    - Sun, 06 May 2018 08:15:41 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/stephan-toivonen>; rel="canonical",<https://www.lagtinget.ax/node/2858>;
       rel="shortlink"
     Etag:
-    - '"1525499604-1"'
+    - '"1525594541-1"'
     Last-Modified:
-    - Sat, 05 May 2018 05:53:24 GMT
+    - Sun, 06 May 2018 08:15:41 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14959'
+    - '14956'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 05 May 2018 05:53:32 GMT
+recorded_at: Sun, 06 May 2018 08:15:42 GMT
