@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 30 May 2018 03:32:52 GMT
+    - Thu, 31 May 2018 04:56:47 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1527739344-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,17 +36,19 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/roger-eriksson>; rel="canonical",<https://www.lagtinget.ax/node/3808>;
       rel="shortlink"
-    Etag:
-    - '"1527651172-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Wed, 30 May 2018 03:32:52 GMT
+    - Thu, 31 May 2018 04:02:24 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15023'
+    - '15037'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 30 May 2018 03:32:53 GMT
+recorded_at: Thu, 31 May 2018 04:56:47 GMT
