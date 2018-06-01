@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 31 May 2018 04:59:53 GMT
+    - Fri, 01 Jun 2018 22:44:37 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/gun-mari-lindholm>; rel="canonical",<https://www.lagtinget.ax/node/149>;
       rel="shortlink"
     Etag:
-    - '"1527742793-1"'
+    - '"1527893077-1"'
     Last-Modified:
-    - Thu, 31 May 2018 04:59:53 GMT
+    - Fri, 01 Jun 2018 22:44:37 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15501'
+    - '15503'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 31 May 2018 04:59:53 GMT
+recorded_at: Fri, 01 Jun 2018 22:44:38 GMT
