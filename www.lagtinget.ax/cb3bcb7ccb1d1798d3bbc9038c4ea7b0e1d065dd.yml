@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 31 May 2018 05:00:28 GMT
+    - Fri, 01 Jun 2018 22:45:13 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/carina-aaltonen>; rel="canonical",<https://www.lagtinget.ax/node/3801>;
       rel="shortlink"
     Etag:
-    - '"1527742828-1"'
+    - '"1527893113-1"'
     Last-Modified:
-    - Thu, 31 May 2018 05:00:28 GMT
+    - Fri, 01 Jun 2018 22:45:13 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 31 May 2018 05:00:28 GMT
+recorded_at: Fri, 01 Jun 2018 22:45:13 GMT
