@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 01 Jun 2018 22:46:45 GMT
+    - Sat, 02 Jun 2018 07:15:49 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1527887724-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/stephan-toivonen>; rel="canonical",<https://www.lagtinget.ax/node/2858>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1527923749-1"'
     Last-Modified:
-    - Fri, 01 Jun 2018 21:15:24 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Sat, 02 Jun 2018 07:15:49 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14984'
+    - '14987'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 01 Jun 2018 22:46:45 GMT
+recorded_at: Sat, 02 Jun 2018 07:15:49 GMT
