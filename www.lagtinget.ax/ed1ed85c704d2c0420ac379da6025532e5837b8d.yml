@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 01 Jun 2018 22:45:57 GMT
+    - Sat, 02 Jun 2018 07:15:05 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/lars-haggblom>; rel="canonical",<https://www.lagtinget.ax/node/3796>;
       rel="shortlink"
     Etag:
-    - '"1527893157-1"'
+    - '"1527923705-1"'
     Last-Modified:
-    - Fri, 01 Jun 2018 22:45:57 GMT
+    - Sat, 02 Jun 2018 07:15:05 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 01 Jun 2018 22:45:57 GMT
+recorded_at: Sat, 02 Jun 2018 07:15:05 GMT
