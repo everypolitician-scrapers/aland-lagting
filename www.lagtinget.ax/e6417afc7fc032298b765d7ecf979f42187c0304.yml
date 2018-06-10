@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 09 Jun 2018 08:22:14 GMT
+    - Sun, 10 Jun 2018 16:43:17 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1528645302-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,17 +36,19 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/bert-haggblom>; rel="canonical",<https://www.lagtinget.ax/node/2859>;
       rel="shortlink"
-    Etag:
-    - '"1528532534-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Sat, 09 Jun 2018 08:22:14 GMT
+    - Sun, 10 Jun 2018 15:41:42 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15198'
+    - '15195'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 09 Jun 2018 08:22:15 GMT
+recorded_at: Sun, 10 Jun 2018 16:43:17 GMT
