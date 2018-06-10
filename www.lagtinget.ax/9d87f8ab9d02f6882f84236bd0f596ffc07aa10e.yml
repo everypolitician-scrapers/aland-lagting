@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 09 Jun 2018 08:19:03 GMT
+    - Sun, 10 Jun 2018 16:39:58 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/harry-jansson>; rel="canonical",<https://www.lagtinget.ax/node/145>;
       rel="shortlink"
     Etag:
-    - '"1528532343-1"'
+    - '"1528648798-1"'
     Last-Modified:
-    - Sat, 09 Jun 2018 08:19:03 GMT
+    - Sun, 10 Jun 2018 16:39:58 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15097'
+    - '15100'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 09 Jun 2018 08:19:03 GMT
+recorded_at: Sun, 10 Jun 2018 16:39:59 GMT
