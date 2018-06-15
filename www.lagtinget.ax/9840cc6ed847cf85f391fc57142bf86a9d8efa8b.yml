@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Mon, 11 Jun 2018 18:20:56 GMT
+    - Fri, 15 Jun 2018 04:33:47 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1528740943-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,12 +39,10 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/petri-carlsson>; rel="canonical",<https://www.lagtinget.ax/node/135>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1529037227-1"'
     Last-Modified:
-    - Mon, 11 Jun 2018 18:15:43 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Fri, 15 Jun 2018 04:33:47 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
@@ -51,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 11 Jun 2018 18:20:56 GMT
+recorded_at: Fri, 15 Jun 2018 04:33:48 GMT
