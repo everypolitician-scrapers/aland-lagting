@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 15 Jun 2018 04:35:05 GMT
+    - Mon, 18 Jun 2018 05:37:52 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/tony-wikstrom>; rel="canonical",<https://www.lagtinget.ax/node/3810>;
       rel="shortlink"
     Etag:
-    - '"1529037305-1"'
+    - '"1529300272-1"'
     Last-Modified:
-    - Fri, 15 Jun 2018 04:35:05 GMT
+    - Mon, 18 Jun 2018 05:37:52 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14877'
+    - '14881'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 15 Jun 2018 04:35:06 GMT
+recorded_at: Mon, 18 Jun 2018 05:37:52 GMT
