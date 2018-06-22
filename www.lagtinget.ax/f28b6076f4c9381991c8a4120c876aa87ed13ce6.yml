@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 21 Jun 2018 07:56:28 GMT
+    - Fri, 22 Jun 2018 09:21:15 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/mikael-lindholm>; rel="canonical",<https://www.lagtinget.ax/node/3804>;
       rel="shortlink"
     Etag:
-    - '"1529567788-1"'
+    - '"1529659275-1"'
     Last-Modified:
-    - Thu, 21 Jun 2018 07:56:28 GMT
+    - Fri, 22 Jun 2018 09:21:15 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14859'
+    - '14858'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 21 Jun 2018 07:56:29 GMT
+recorded_at: Fri, 22 Jun 2018 09:21:16 GMT
