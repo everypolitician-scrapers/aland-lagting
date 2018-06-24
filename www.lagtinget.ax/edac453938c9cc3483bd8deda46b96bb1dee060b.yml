@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 23 Jun 2018 04:43:30 GMT
+    - Sun, 24 Jun 2018 16:07:06 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1529723231-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/sara-kemetter>; rel="canonical",<https://www.lagtinget.ax/node/148>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1529856426-1"'
     Last-Modified:
-    - Sat, 23 Jun 2018 03:07:11 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Sun, 24 Jun 2018 16:07:06 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15116'
+    - '15117'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 23 Jun 2018 04:43:31 GMT
+recorded_at: Sun, 24 Jun 2018 16:07:07 GMT
