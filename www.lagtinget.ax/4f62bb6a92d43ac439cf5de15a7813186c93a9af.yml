@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 29 Jun 2018 08:04:58 GMT
+    - Sat, 30 Jun 2018 12:58:22 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/johan-ehn>; rel="canonical",<https://www.lagtinget.ax/node/3798>;
       rel="shortlink"
     Etag:
-    - '"1530259498-1"'
+    - '"1530363502-1"'
     Last-Modified:
-    - Fri, 29 Jun 2018 08:04:58 GMT
+    - Sat, 30 Jun 2018 12:58:22 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15330'
+    - '15329'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 29 Jun 2018 08:04:58 GMT
+recorded_at: Sat, 30 Jun 2018 12:58:23 GMT
