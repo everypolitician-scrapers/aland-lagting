@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 30 Jun 2018 12:56:30 GMT
+    - Sun, 01 Jul 2018 01:16:26 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1530406064-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,17 +36,19 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/harry-jansson>; rel="canonical",<https://www.lagtinget.ax/node/145>;
       rel="shortlink"
-    Etag:
-    - '"1530363390-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Sat, 30 Jun 2018 12:56:30 GMT
+    - Sun, 01 Jul 2018 00:47:44 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15099'
+    - '15102'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 30 Jun 2018 12:56:30 GMT
+recorded_at: Sun, 01 Jul 2018 01:16:27 GMT
