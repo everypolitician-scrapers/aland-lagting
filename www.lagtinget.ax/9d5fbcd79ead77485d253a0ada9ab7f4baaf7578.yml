@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 14 Jul 2018 07:27:11 GMT
+    - Sun, 15 Jul 2018 01:35:58 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/roger-eriksson>; rel="canonical",<https://www.lagtinget.ax/node/3808>;
       rel="shortlink"
     Etag:
-    - '"1531553231-1"'
+    - '"1531618558-1"'
     Last-Modified:
-    - Sat, 14 Jul 2018 07:27:11 GMT
+    - Sun, 15 Jul 2018 01:35:58 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15041'
+    - '15037'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 14 Jul 2018 07:27:12 GMT
+recorded_at: Sun, 15 Jul 2018 01:35:58 GMT
