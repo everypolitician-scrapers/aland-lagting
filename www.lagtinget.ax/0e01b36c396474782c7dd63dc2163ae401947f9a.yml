@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 18 Jul 2018 19:59:44 GMT
+    - Thu, 19 Jul 2018 16:07:08 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1531937461-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/mikael-staffas>; rel="canonical",<https://www.lagtinget.ax/node/3871>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1532016428-1"'
     Last-Modified:
-    - Wed, 18 Jul 2018 18:11:01 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Thu, 19 Jul 2018 16:07:08 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14970'
+    - '14972'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 18 Jul 2018 19:59:45 GMT
+recorded_at: Thu, 19 Jul 2018 16:07:09 GMT
