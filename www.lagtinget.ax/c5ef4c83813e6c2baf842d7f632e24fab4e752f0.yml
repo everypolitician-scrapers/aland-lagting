@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 21 Jul 2018 20:09:55 GMT
+    - Sun, 22 Jul 2018 16:43:07 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,9 +40,9 @@ response:
     - <https://www.lagtinget.ax/ledamoter/ingrid-johansson>; rel="canonical",<https://www.lagtinget.ax/node/3805>;
       rel="shortlink"
     Etag:
-    - '"1532203795-1"'
+    - '"1532277787-1"'
     Last-Modified:
-    - Sat, 21 Jul 2018 20:09:55 GMT
+    - Sun, 22 Jul 2018 16:43:07 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 21 Jul 2018 20:09:56 GMT
+recorded_at: Sun, 22 Jul 2018 16:43:08 GMT
