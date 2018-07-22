@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 21 Jul 2018 20:14:54 GMT
+    - Sun, 22 Jul 2018 16:46:10 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1532272161-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,17 +36,19 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/gote-wine>; rel="canonical",<https://www.lagtinget.ax/node/158>;
       rel="shortlink"
-    Etag:
-    - '"1532204094-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Sat, 21 Jul 2018 20:14:54 GMT
+    - Sun, 22 Jul 2018 15:09:21 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15073'
+    - '15070'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 21 Jul 2018 20:14:55 GMT
+recorded_at: Sun, 22 Jul 2018 16:46:10 GMT
