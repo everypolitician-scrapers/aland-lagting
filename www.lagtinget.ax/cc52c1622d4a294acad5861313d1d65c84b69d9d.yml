@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 19 Aug 2018 07:56:15 GMT
+    - Mon, 20 Aug 2018 13:47:47 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -26,7 +26,7 @@ response:
     X-Drupal-Cache:
     - HIT
     Etag:
-    - '"1534658651-1"'
+    - '"1534766835-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,7 +39,7 @@ response:
     Cache-Control:
     - public, max-age=180
     Last-Modified:
-    - Sun, 19 Aug 2018 06:04:11 GMT
+    - Mon, 20 Aug 2018 12:07:15 GMT
     Expires:
     - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
@@ -47,8 +47,8 @@ response:
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '24361'
+    - '24357'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 19 Aug 2018 07:56:15 GMT
+recorded_at: Mon, 20 Aug 2018 13:47:47 GMT
