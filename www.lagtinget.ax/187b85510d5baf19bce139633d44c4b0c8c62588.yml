@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Tue, 28 Aug 2018 02:11:12 GMT
+    - Wed, 29 Aug 2018 22:13:20 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/john-holmberg>; rel="canonical",<https://www.lagtinget.ax/node/3806>;
       rel="shortlink"
     Etag:
-    - '"1535422272-1"'
+    - '"1535580800-1"'
     Last-Modified:
-    - Tue, 28 Aug 2018 02:11:12 GMT
+    - Wed, 29 Aug 2018 22:13:20 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14948'
+    - '14949'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 28 Aug 2018 02:11:13 GMT
+recorded_at: Wed, 29 Aug 2018 22:13:21 GMT
