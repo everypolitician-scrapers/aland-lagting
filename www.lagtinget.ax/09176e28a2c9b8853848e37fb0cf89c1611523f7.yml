@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 16 Sep 2018 13:38:49 GMT
+    - Mon, 17 Sep 2018 10:37:44 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/britt-lundberg>; rel="canonical",<https://www.lagtinget.ax/node/8>;
       rel="shortlink"
     Etag:
-    - '"1537105129-1"'
+    - '"1537180664-1"'
     Last-Modified:
-    - Sun, 16 Sep 2018 13:38:49 GMT
+    - Mon, 17 Sep 2018 10:37:44 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15270'
+    - '15269'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 16 Sep 2018 13:38:49 GMT
+recorded_at: Mon, 17 Sep 2018 10:37:44 GMT
