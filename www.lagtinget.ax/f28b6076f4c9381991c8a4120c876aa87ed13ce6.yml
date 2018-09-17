@@ -18,15 +18,18 @@ response:
     message: OK
   headers:
     Date:
-    - Sun, 16 Sep 2018 13:38:37 GMT
+    - Mon, 17 Sep 2018 10:37:32 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
+    - nosniff
     X-Drupal-Cache:
-    - HIT
-    Etag:
-    - '"1537096350-1"'
+    - MISS
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
+    Cache-Control:
+    - public, max-age=180
     Content-Language:
     - sv
     X-Frame-Options:
@@ -36,19 +39,17 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/mikael-lindholm>; rel="canonical",<https://www.lagtinget.ax/node/3804>;
       rel="shortlink"
-    Cache-Control:
-    - public, max-age=180
+    Etag:
+    - '"1537180652-1"'
     Last-Modified:
-    - Sun, 16 Sep 2018 11:12:30 GMT
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
+    - Mon, 17 Sep 2018 10:37:32 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14897'
+    - '14898'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 16 Sep 2018 13:38:38 GMT
+recorded_at: Mon, 17 Sep 2018 10:37:32 GMT
