@@ -18,7 +18,7 @@ response:
     message: OK
   headers:
     Date:
-    - Fri, 28 Sep 2018 11:04:11 GMT
+    - Sat, 29 Sep 2018 02:16:10 GMT
     Server:
     - Apache
     X-Content-Type-Options:
@@ -40,16 +40,16 @@ response:
     - <https://www.lagtinget.ax/ledamoter/tage-silander>; rel="canonical",<https://www.lagtinget.ax/node/3797>;
       rel="shortlink"
     Etag:
-    - '"1538132651-1"'
+    - '"1538187370-1"'
     Last-Modified:
-    - Fri, 28 Sep 2018 11:04:11 GMT
+    - Sat, 29 Sep 2018 02:16:10 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '15059'
+    - '15051'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 28 Sep 2018 11:04:11 GMT
+recorded_at: Sat, 29 Sep 2018 02:16:10 GMT
