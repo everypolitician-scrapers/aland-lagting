@@ -18,18 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Thu, 04 Oct 2018 01:12:37 GMT
+    - Fri, 05 Oct 2018 22:02:47 GMT
     Server:
     - Apache
     X-Content-Type-Options:
     - nosniff
-    - nosniff
     X-Drupal-Cache:
-    - MISS
-    Expires:
-    - Sun, 19 Nov 1978 05:00:00 GMT
-    Cache-Control:
-    - public, max-age=180
+    - HIT
+    Etag:
+    - '"1538774068-1"'
     Content-Language:
     - sv
     X-Frame-Options:
@@ -39,17 +36,19 @@ response:
     Link:
     - <https://www.lagtinget.ax/ledamoter/fredrik-fredlund>; rel="canonical",<https://www.lagtinget.ax/node/3794>;
       rel="shortlink"
-    Etag:
-    - '"1538615557-1"'
+    Cache-Control:
+    - public, max-age=180
     Last-Modified:
-    - Thu, 04 Oct 2018 01:12:37 GMT
+    - Fri, 05 Oct 2018 21:14:28 GMT
+    Expires:
+    - Sun, 19 Nov 1978 05:00:00 GMT
     Vary:
     - Cookie,Accept-Encoding
     Content-Type:
     - text/html; charset=utf-8
     Content-Length:
-    - '14881'
+    - '14880'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 04 Oct 2018 01:12:37 GMT
+recorded_at: Fri, 05 Oct 2018 22:02:48 GMT
